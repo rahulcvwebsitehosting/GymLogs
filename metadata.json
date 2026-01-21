@@ -1,0 +1,7 @@
+{
+  "name": "IronLog - Private Training Brain",
+  "description": "A high-performance, private gym tracker designed for fast in-gym logging, strength progression analysis, and recovery monitoring. Mobile-first and zero social distractions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
